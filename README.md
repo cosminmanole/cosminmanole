@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cosminmanole
+- 👀 I’m interested in privacy and security
+- 🌱 I’m currently learning vulnerability scanning and analysis
+- 💞️ I’m looking to collaborate on privacy projects
